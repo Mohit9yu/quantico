@@ -3,7 +3,7 @@ yellow
 green
 pink
 brown
-indigo
+ind
 black
 doggy
 billi
